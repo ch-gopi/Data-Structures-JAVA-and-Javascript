@@ -1,5 +1,3 @@
-# Leetcode-Solutions-JAVA-Javascript
-Collection of LeetCode questions to ace the coding interview!
 
 After spending an hour or more trying to solve the problem, we give up and quickly rush into the solution. This can be a huge barrier in our preparation, since it prevents us from developing our creativity and thinking process.
 
