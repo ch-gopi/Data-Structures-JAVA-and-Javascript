@@ -5,7 +5,7 @@ So, here is what you can do instead ⭐:
 Whenever you're unable to solve a problem even after devoting a tremendous amount of time, instead of looking at the solution, set the problem aside for a day.
 
 When you re-attempt this problem the next day with a fresh mind, you’ll be able to think of alternative approaches also. You’ll also find that, giving this break to our mind, helps us identify new approaches which we weren’t able to figure out earlier.
-[try to understand problem,write question on paper,visualise it in your head,run through a few i/p,o/p examples,think and wrie your solution on paper,After u think ur sol'n will work run it (follow good coding practices)]
+[try to understand problem,write question on paper,visualise it in your head,run through a few i/p,o/p examples,think and write your solution on paper,After u think ur sol'n will work run it (follow good coding practices)]
 That said, even with consistent efforts, progress may be slow, and problems may take hours to solve. But don't let that happen to you!
 #
 What will you typically need to implement yourself in the programming assignments if you program in C++, Java or Python?
