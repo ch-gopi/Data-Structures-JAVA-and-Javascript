@@ -45,5 +45,28 @@ If it is one of the first few tests, you will see the input data, the answer of 
 
 
 You will also learn what was the problem: did your program output a wrong answer, or did it work too long, or did it consume too much memory. For the first few tests, you will also see the input data, the output of your program and the correct answer.
+#
 
+DRY principle
+The DRY (don't repeat yourself) principle is a best practice in software development that recommends software engineers to do something once, and only once. The concept, which is often credited to Andrew Hunt  and David Thomas, authors of "The Pragmatic Programmer," is the tongue-in-cheek opposite of the WET principle, which stands for "write everything twice."
 
+According to the DRY principle, every discrete chunk of knowledge should have one, unambiguous, authoritative representation within a system. The goal of the DRY principle is to lower technical debt by eliminating redundancies in process and logic whenever possible.
+
+Redundancies in process
+
+To prevent redundancies in processes (actions required to achieve a result), followers of the DRY principle seek to ensure that there is only one way to complete a particular process. Automating the steps wherever possible also reduces redundancy, as well as the number of actions required to complete a task.
+
+Redundancies in logic
+
+To prevent redundancies in logic (code), followers of the DRY principle use abstraction to minimize repetition. Abstraction is the process of removing characteristics until only the most essential characteristics remain.
+
+An important goal of the DRY principle is to improve the maintainability of code during all phases of its lifecycle. When the DRY principle is followed, for example, a software developer should be able to change code in one place, and have the change automatically applied to every instance of the code in question.  
+#
+DRY is a fundamental principle of software development that promotes code reuse and modularization. The principle states that "every piece of knowledge or logic should have a single, unambiguous representation within a system". In other words, you should never repeat yourself in your code. 
+Here are some other DRY principles: 
+Single Responsibility Principle: Each function or method should only do one job
+Dependency Inversion Principle: High-level modules should not depend on low-level modules for implementation, instead should rely on their abstraction
+Interface Segregation Principle: Keep your interfaces as small as possible
+Open-Closed design principle: Classes or objects and methods should be open for extension, but closed for modifications
+Separation of concerns: A programmer should not write the program as one single block, instead the code should be broken into chunks, such that each component is able to complete a simple distinct job
+DRY is not only about code. You shouldn't repeat the knowledge of your business domain in anything related to your project.
